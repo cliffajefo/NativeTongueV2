@@ -28,6 +28,8 @@ public class AIPatrol : MonoBehaviour
         {
             Patrol();
         }
+
+        Debug.Log("new change");
     }
 
     private void FixedUpdate()
