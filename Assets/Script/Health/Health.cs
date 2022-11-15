@@ -31,6 +31,7 @@ public class Health : MonoBehaviour
                 //player dies
                 GetComponent<Playercontrol>().enabled = false;
                 dead = true;
+                Debug.Log("debug");
 
             }
 
