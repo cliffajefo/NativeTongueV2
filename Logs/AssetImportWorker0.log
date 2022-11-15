@@ -3567,3 +3567,4 @@ Received Import Request.
   path: Assets/Script/Enemy/Trap_sidewalk.cs
   artifactKey: Guid(a96143615222445d2b683a015bc6644a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Script/Enemy/Trap_sidewalk.cs using Guid(a96143615222445d2b683a015bc6644a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6070655852cf6574421fd78303556ca0') in 0.177162 seconds 
+[usbmuxd] Detached: 1 00008020-001D6C2034A2402E
