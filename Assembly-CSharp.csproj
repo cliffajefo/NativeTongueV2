@@ -62,6 +62,8 @@
     <Compile Include="Assets/Script/Health/Health.cs" />
     <Compile Include="Assets/Script/Health/HealthBar.cs" />
     <Compile Include="Assets/Script/Enemy/Trap_sidewalk.cs" />
+    <Compile Include="Assets/Script/Health/HealthCollectables.cs" />
+    <Compile Include="Assets/Script/CameraController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />

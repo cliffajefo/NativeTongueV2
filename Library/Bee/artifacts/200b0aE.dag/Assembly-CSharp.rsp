@@ -382,9 +382,11 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Script/AIPatrol.cs"
+"Assets/Script/CameraController.cs"
 "Assets/Script/Enemy/Trap_sidewalk.cs"
 "Assets/Script/Health/Health.cs"
 "Assets/Script/Health/HealthBar.cs"
+"Assets/Script/Health/HealthCollectables.cs"
 "Assets/Script/MovingPlatform.cs"
 "Assets/Script/Playercontrol.cs"
 -langversion:9.0

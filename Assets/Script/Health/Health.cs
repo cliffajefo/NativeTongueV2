@@ -38,9 +38,9 @@ public class Health : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
-    void Update()
+    public void AddHealth(float _value)
     {
-        
+        currentHealth = Mathf.Clamp(currentHealth + _value, 0, startingHealth);
     }
+
 }
