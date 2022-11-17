@@ -32,6 +32,7 @@ public class Playercontrol : MonoBehaviour
         saro_rigidbody = GetComponent<Rigidbody2D>();
 
         dontMove = true;
+        Debug.Log("Player Conttrol Works");
 
     }
 
